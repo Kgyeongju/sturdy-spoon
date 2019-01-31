@@ -7,7 +7,7 @@ package ca.sheridancollege.week1.softwarefundamental;
 
 /**
  *
- * @author mehta
+ * @author mehta, Jan 31, 2019
  */
 public class Student1 {
 
